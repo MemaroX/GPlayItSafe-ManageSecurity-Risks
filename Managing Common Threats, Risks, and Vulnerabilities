@@ -1,0 +1,51 @@
+Understanding the Concepts:
+
+Asset: Anything of value to an organization (digital or physical, e.g., data, servers, computers).
+Threat: An event or circumstance that can negatively impact assets (e.g., insider threats, advanced persistent threats (APTs)).
+Risk: The likelihood of a threat impacting the confidentiality, integrity, or availability of an asset (e.g., external/internal risks, legacy systems, software compliance).
+Vulnerability: A weakness in a system that can be exploited by a threat (e.g., ProxyLogon, ZeroLogon, Log4Shell).
+Risk Management Strategies:
+
+Acceptance: Accepting a risk if disruption to business continuity is too high.
+Avoidance: Taking steps to entirely eliminate the risk.
+Transference: Transferring the risk to a third party (e.g., insurance).
+Mitigation: Reducing the impact of a known risk.
+Risk Management Frameworks:
+
+NIST RMF (National Institute of Standards and Technology Risk Management Framework)
+HITRUST (Health Information Trust Alliance)
+Common Threats and Risks:
+
+Insider Threats: Malicious employees or vendors with authorized access.
+External Risks: Threat actors attempting unauthorized access to information.
+Internal Risks: Current/former employees, vendors, or partners posing a security risk.
+Legacy Systems: Outdated systems with vulnerabilities.
+Multiparty Risks: Outsourcing work to third-party vendors with access to sensitive information.
+Software Compliance/Licensing: Unpatched or outdated software.
+Resources for Identifying Risks:
+
+NIST Cybersecurity Risk List
+OWASP Top 10 Web Application Security Risks (updated regularly)
+Common Vulnerabilities:
+
+ProxyLogon (Microsoft Exchange Server)
+ZeroLogon (Microsoft Netlogon)
+Log4Shell (Java applications)
+PetitPotam (Windows NTLM)
+Security Logging and Monitoring Failures
+Server-Side Request Forgery
+Vulnerability Management:
+
+Identifying and mitigating vulnerabilities in systems.
+Patching and updating systems to address vulnerabilities.
+Constant monitoring for new vulnerabilities.
+Learning Resources:
+
+NIST National Vulnerability Database
+CISA Known Exploited Vulnerabilities Catalog
+Key Takeaways:
+
+Understanding these concepts allows you to develop strategies to:
+
+Mitigate threats, risks, and vulnerabilities.
+Protect organizations and people from security issues.
