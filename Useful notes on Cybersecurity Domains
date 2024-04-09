@@ -1,0 +1,58 @@
+
+Overall Security Posture
+
+An organization's ability to defend critical assets and data.
+Requires elements like security goals, risk management, compliance plans, and legal awareness.
+Information Security (InfoSec) establishes processes to secure information using methods like:
+Incident response
+Vulnerability management
+Application security
+Cloud security
+Infrastructure security
+Asset Security
+
+Focuses on managing the cybersecurity of organizational assets (physical & virtual data).
+Includes storage, maintenance, retention, and destruction of data.
+Requires tracking assets and data to minimize risk of exposure.
+Security measures like impact analysis, recovery plans, and data exposure management are crucial.
+Security Architecture and Engineering
+
+Designs and implements tools, systems, and processes to protect data.
+Emphasizes shared responsibility by all involved in security system design.
+Key design principles include:
+Threat modeling
+Least privilege
+Defense in depth
+Fail securely
+Separation of duties
+Keep it simple
+Zero trust
+Trust but verify
+Uses tools like SIEM (Security Information and Event Management) for threat detection.
+Communication and Network Security
+
+Secures physical and wireless networks (on-site, remote, cloud).
+Manages external connections for secure remote user access.
+Network security controls (restricted access) protect user and network security.
+Identity and Access Management (IAM)
+
+Ensures user identities are trusted and access is authorized for physical and logical assets.
+Prevents unauthorized access while allowing authorized users to perform tasks.
+Uses the principle of least privilege (granting minimum access required).
+Security Assessment and Testing
+
+Identifies and mitigates risks, threats, and vulnerabilities in internal systems.
+Uses penetration testing ("pen testing") to find exploitable vulnerabilities.
+Involves security control testing, data collection/analysis, and security audits.
+Cybersecurity professionals may audit user permissions to validate access levels.
+Security Operations
+
+Investigates potential data breaches and implements preventative measures after incidents.
+Uses strategies like training, reporting, intrusion detection/prevention, SIEM tools, log management, incident management, playbooks, forensics, and post-breach reflection.
+Cybersecurity professionals work as a team to manage, prevent, and investigate threats.
+Software Development Security
+
+Uses secure programming practices to create secure applications.
+Security is integrated throughout the software development lifecycle (design, development, testing, release).
+Application security testing helps identify and fix vulnerabilities.
+Quality assurance and penetration testing ensure software meets security and performance standards.
